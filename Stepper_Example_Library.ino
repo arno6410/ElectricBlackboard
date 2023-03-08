@@ -117,9 +117,6 @@ void loop() {
     }
 }
 
-test
-
-
 // ====================Functions==================== 
 void MoveStraight(float x_destination, float y_destination, Sled krijtje, MultiStepper steppers_control) {
   long go_to_position[2];
